@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`#help ||By - Saudi Shop TM||`,"https://www.twitch.tv/ahmad107996")
+client.user.setGame(`#help ||System||`,"https://www.twitch.tv/ahmad107996")
 client.user.setStatus("dnd")
 });
 
